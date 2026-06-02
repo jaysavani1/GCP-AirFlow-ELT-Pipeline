@@ -14,8 +14,10 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ---
 ## Architecture
-![image]()
+![image](assets/394238803-87cdc79c-c9a1-4c4d-887a-ab6007394bc7.png)
 
+## Airflow Pipeline
+![image](assets/394241166-8e8b8373-9d2a-417b-9fd9-5f42171c06f8.png)
 ---
 
 ### Workflow
@@ -44,8 +46,6 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ---
 
----
-
 ## Setup Instructions
 
 ### Prerequisites
@@ -54,10 +54,5 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
    - Service account with required permissions.
 2. Apache Airflow installed.
 
-## End Result
-
-### Airflow Pipeline
-![image]()
-
-### Looker Studio Report
-![image]()
+## Looker Studio Report
+![image](assets/394241371-d06f0d3e-a1d0-404a-9eb7-c61c85df8257.png)
